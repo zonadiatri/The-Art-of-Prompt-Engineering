@@ -13,7 +13,7 @@ Proyek ini menggali tentang konsep prompt engineering, sebuah aspek penting dari
 
 
 ## Mentee info
-- Nama : Zona Diatri
+- Nama    : Zona Diatri
 - Program : IBM Advance AI
 
 ## Tech Stack
